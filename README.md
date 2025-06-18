@@ -45,14 +45,14 @@ This project analyzes hospital patient readmissions using an Excel-based dashboa
 
 ## 📁 Files Included
 
-- `Patient_Readmissions_Dashboard_FIXED.xlsx` – The Excel dashboard
-- `assets/dashboard_preview.png` – Dashboard screenshot
+- `Patient_Readmissions_Dashboard.xlsx` – The Excel dashboard
+- `Assets/dashboard_preview.png` – Dashboard screenshot
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](Assets/dashboard_preview.png)
 
 ---
 
@@ -68,5 +68,5 @@ This project analyzes hospital patient readmissions using an Excel-based dashboa
 
 **Varshita Yeddula**  
 *Data/BI Analyst (Health-Tech Focus)*  
-📧 varshitayeddula@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254)
+📧 [Email](varshitayeddula@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254)
