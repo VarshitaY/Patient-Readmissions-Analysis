@@ -68,5 +68,5 @@ This project analyzes hospital patient readmissions using an Excel-based dashboa
 
 **Varshita Yeddula**  
 *Data/BI Analyst (Health-Tech Focus)*  
-📧 [Email](varshitayeddula@gmail.com)  
+📧 [varshitayeddula@gmail.com](mailto:varshitayeddula@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254)
